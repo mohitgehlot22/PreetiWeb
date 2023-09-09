@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300&family=Open+Sans&family=Poppins:wght@200;300&family=Roboto:wght@300;400;700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.top{
+    background-color: #9C623E;
+    padding: 13.5px !important;
+}
+
+#get{
+    background-color:#212121;
+}
+#log{
+    background-color: #9C623E;
+}
+#get:hover{
+    background-color: #9C623E;
+}
+#log:hover{
+    background-color: #212121;
+    color: #fff !important;
+}
+.nav_row{
+    background-color: #F5EFEB;
+}
+.section_header{
+    background-color:#42230F;
+    position: relative;
+    height: 544px;
+}
+.year{
+    width: 149px;
+    background-color: #F3E3D9;
+    height: 149px;
+    border-radius: 10px;
+}
+.img_text{
+    width: 99px;
+    height: 86px;
+}
+.img_icon{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+}
+.text_header{
+    width: 488px;
+    height: 240px;
+    position: absolute;
+    top: 80px;
+    left: 480px !important;
+}
+.header_heding{
+    color: #9C623E;
+    letter-spacing: 2px;
+}
+.now:hover{
+    background-color: #9C623E !important;
+    color: white;
+}
+.img_2{
+    position: absolute;
+    top: 33px;
+    left: 24px;
+}
+.bid{
+    position: absolute;
+    left:80%;
+}
+.img_footer{
+    width:123px;
+    height:123px;
+    position: absolute;
+    top: 65%;
+    left: 25%;
+}
+.img_fooret_2{
+    width:98px; 
+    height:98px;
+    position: absolute;
+    top:55%;
+    left:58%;
+}
+.img_fooret_3{
+    width: 122px;
+    height:122px;
+    position: absolute;
+    top:60%;
+    left:86% !important;
+}
+.bg_color{
+    width: 80%;
+    background-color: #fff;
+    box-shadow: 0px 0px 1px  10px #F5EFEB;
+    position: relative;
+    top: -80px;
+}
+.border_end{
+    border-right:1px solid #9C623E;
+}
+
+.btn_search{
+    width: 100%;
+    background-color: #9C623E;
+}
+.btn_search:hover{
+    background-color: #42230F;
+}
+.heding{
+    color: #42230F;
+}
+.heding_light{
+    color: #9C623E;
+}
+.img_color{
+    width: 163px;
+    height: 163px;
+    background-color:#DBDEE6;
+    border-radius: 10px;
+}
+.btn_1{
+    width: 30px;
+    height: 30px;
+    background-color: #42230F;
+    border-radius: 50%;
+}
+.dolar{
+    color:#11862B;
+}
+.now{
+    background-color: #9C623E;
+    transform: 0.5s;
+}
+.now:hover{
+    background-color:#42230F !important;
+    border: 5px solid #9C623E;
+}
+.img_wh{
+    width: 202px;
+    height: 202px;
+    margin: auto;
+}
+.img_wh img{
+    width:   200.84px !important;
+    height: 280px!important;
+}
+.owl-nav{
+    font: 50px bold;
+}
+.owl-prev{
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #212121 !important;
+    border-radius: 50% !important;
+    color: #DBDEE6 !important;
+    position: absolute;
+    top: 35%;
+    left: -30px;
+}
+.owl-next{
+    width: 50px !important;
+    height: 50px !important;
+    background-color: #212121 !important;
+    border-radius: 50% !important;
+    color: #DBDEE6 !important;
+    position: absolute;
+    top: 35%;
+    left: 98%;
+}
+.card_bid{
+    transition: 0.5s;
+}
+.card_bid:hover{
+    border: 2px solid #42230F !important;
+    box-shadow: 3px 4px 34px 0px rgba(0, 0, 0, 0.12);
+}
+.teble{
+    height: 258px;
+    padding: 10px !important;
+}
+.count{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #9C623E;
+    color: #DBDEE6;
+}
+.count:hover{
+    background-color: #42230F;
+    color: white;
+}
+.table_heding{
+    color: #9C623E;
+}
+.icon_color{
+    color: gray;
+}
+.table_img{
+    width:158px !important;
+    height: 118px !important;
+}
+.table_img img{
+    width: 100% !important ;
+    height: 100% !important;
+}
+.best{
+    background-color:  rgb(154, 129, 125);
+}
+.shop{
+    background-color: #9C623E;
+}
+.shop:hover{
+    background-color: #3d2414;
+}
+.Comfortable{
+    background-color: 
+    rgba(255, 244, 238, 1);
+}
+footer ul li{
+    font-size: 14px !important;
+    color: rgba(45, 45, 45, 0.58) !important  ;
+    background-color: 
+    rgba(255, 245, 238, 1) !important;
+
+}
+.icon_footer_phone{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #3d2414;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-right:10px ;
+    }
+footer{
+    background-color: 
+    rgba(255, 245, 238, 1);
+}
+.footer_bottom{
+    background-color: #3d2414;
+}

@@ -1,0 +1,96 @@
+@media only screen and (min-width:0px) and (max-width:576px) {
+
+    .year{
+        position: absolute;
+        left: 0%;
+    }
+    .bid{
+        position: absolute;
+        left: 50% !important;
+    }
+    .text_header{
+        width: 100% !important;
+        position: absolute;
+        left: 0px !important;
+        top: 50%;
+    }
+    .img_footer{
+        position: absolute;
+        top: 41%;
+        left: 3%;
+    }
+    .img_fooret_2{
+        position: absolute;
+        top:42%;
+        left:70%;
+    }
+    .img_fooret_3{
+        width:98px;
+        height:98px;
+        position: absolute;
+        top:80%;
+        left:65% !important;
+    }
+    .bg_color{
+        width: 98% !important;
+        position: static !important;
+    }
+    .border_end{
+        border:1px solid #50623E;
+        padding: 10px 0px;
+    }
+    .sm_color{
+        background-color: #503524 !important;
+    }
+    .owl-next{
+        left: 85% !important;
+    }
+ }
+ 
+ @media only screen and (min-width:576px) and (max-width:992px) {
+
+    .year{
+        position: absolute;
+        left: 10%;
+    }
+    .bid{
+        position: absolute;
+        left: 65%;
+    }
+    .text_header{
+        width: 100% !important;
+        position: absolute;
+        left: 0% !important;
+        top: 50%;
+    }
+    .sm_color{
+        background-color: #402411 !important;
+    }
+    
+
+    .img_footer{
+        position: absolute;
+        top: 41%;
+        left: 3%;
+    }
+    .img_fooret_2{
+        position: absolute;
+        top:42%;
+        left:70%;
+    }
+    .img_fooret_3{
+        width:98px;
+        height:98px;
+        position: absolute;
+        top:80%;
+        left:65% !important;
+    }
+    .bg_color{
+        width: 95% !important;
+        position:static ;
+    }
+    .border_end{
+        border:1px solid #9C623E;
+        padding: 10px 0px;
+    }
+}
